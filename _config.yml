@@ -1,12 +1,12 @@
 # Site settings
-title: Pixyll
-email: johnotander@gmail.com
-author: John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title: Irfan Yasin
+email: hello@irfanyasin.com
+author: Irfan Yasin
+description: "Personal blog of Irfan Yasin, Developer"
 baseurl: ""
-url: "http://pixyll.com"
+url: "http://irfanyasin.com"
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet2
 permalink: pretty
 paginate: 3
