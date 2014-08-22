@@ -7,6 +7,6 @@ baseurl: ""
 url: "http://irfanyasin.com"
 
 # Build settings
-markdown: redcarpet2
+markdown: redcarpet
 permalink: pretty
 paginate: 3
