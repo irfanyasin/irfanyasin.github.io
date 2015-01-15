@@ -2,7 +2,7 @@
 layout:     post
 title:      Hello World
 date:       2014-08-22 15:10:19
-summary:    My first ever post
+summary:    First post on my new Jekyll powered blog
 categories: jekyll pixyll
 ---
 
